@@ -1,0 +1,44 @@
+{
+  "name": "Leafy",
+  "short_name": "Leafy",
+  "description": "Premium social chat app with real-time messaging, VIP cosmetics, and end-to-end encrypted DMs.",
+  "theme_color": "#2FA84F",
+  "background_color": "#E8F9E9",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "start_url": "/",
+  "scope": "/",
+  "lang": "tr",
+  "categories": ["social", "communication"],
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Yeni Mesaj",
+      "short_name": "DM",
+      "description": "Yeni bir DM başlat",
+      "url": "/app/dm/new",
+      "icons": [{ "src": "/logo.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Shop",
+      "short_name": "Shop",
+      "description": "Leafy Shop'a git",
+      "url": "/app/shop",
+      "icons": [{ "src": "/logo.png", "sizes": "192x192" }]
+    }
+  ],
+  "screenshots": []
+}
