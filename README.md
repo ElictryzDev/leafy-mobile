@@ -16,7 +16,7 @@ Bu proje, **İstanbul Beykent Üniversitesi Bilgisayar Programcılığı (Önlis
 
 ## 📱 Özellikler
 
-- **Modern & Ciddi Arayüz**: Discord ve benzeri modern platformlardan ilham alan koyu temalı, odaklı ve minimalist kullanıcı deneyimi.
+- **Modern Arayüz**: Discord ve benzeri modern platformlardan ilham alan koyu temalı, odaklı ve minimalist kullanıcı deneyimi.
 - **Ses Odaları (Voice Rooms)**: Gerçek zamanlı sesli iletişim ekranları ve katılımcı durumu göstergeleri.
 - **Kanal ve DM Sohbeti**: Metin kanalları, birebir mesajlaşma ve zengin reaksiyon/çıkartma rozetleri.
 - **Android Uyumluluğu**: Capacitor v6 köprüsü ile Android WebView üzerinde yerel performans ve native API erişimi (Push bildirimleri, durum çubuğu kontrolü, dokunsal geri bildirim).
